@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Halodoc" duration-ms="3614" started-at="2020-08-31T19:55:42 IST" finished-at="2020-08-31T19:55:46 IST">
+    <groups>
+    </groups>
+    <test name="Get User Tests" duration-ms="3614" started-at="2020-08-31T19:55:42 IST" finished-at="2020-08-31T19:55:46 IST">
+      <class name="com.halodoc.tests.FindRestaurant">
+        <test-method status="PASS" signature="getLocation()[pri:0, instance:com.halodoc.tests.FindRestaurant@343f4d3d]" name="getLocation" duration-ms="1586" started-at="2020-08-31T19:55:42 IST" finished-at="2020-08-31T19:55:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLocation -->
+        <test-method status="PASS" signature="getLocationDetails()[pri:0, instance:com.halodoc.tests.FindRestaurant@343f4d3d]" name="getLocationDetails" duration-ms="1049" started-at="2020-08-31T19:55:44 IST" finished-at="2020-08-31T19:55:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLocationDetails -->
+        <test-method status="PASS" signature="getResturantInBudget()[pri:0, instance:com.halodoc.tests.FindRestaurant@343f4d3d]" name="getResturantInBudget" duration-ms="939" started-at="2020-08-31T19:55:45 IST" finished-at="2020-08-31T19:55:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResturantInBudget -->
+      </class> <!-- com.halodoc.tests.FindRestaurant -->
+    </test> <!-- Get User Tests -->
+  </suite> <!-- Halodoc -->
+</testng-results>

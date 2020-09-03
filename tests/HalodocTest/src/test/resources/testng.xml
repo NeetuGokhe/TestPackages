@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Halodoc" parallel="false">
+
+    <test name="Get User Tests">
+        <classes >
+            <class name="com.halodoc.tests.FindRestaurant"/>
+        </classes>
+    </test>
+</suite>

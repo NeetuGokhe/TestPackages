@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Halodoc]">
+  <test thread-count="5" verbose="0" name="Get User Tests(failed)">
+    <classes>
+      <class name="com.halodoc.tests.FindRestaurant">
+        <methods>
+          <include name="getLocation"/>
+          <include name="getLocationDetails"/>
+        </methods>
+      </class> <!-- com.halodoc.tests.FindRestaurant -->
+    </classes>
+  </test> <!-- Get User Tests(failed) -->
+</suite> <!-- Failed suite [Halodoc] -->
